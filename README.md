@@ -1,4 +1,28 @@
+# Furniture E-commerce Website
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## About the Project
+
+This project is a dynamic and responsive **furniture e-commerce website** built using **Next.js** with **TypeScript** and **Tailwind CSS**. The design has been customized and enhanced to provide a seamless user experience. It features multiple dynamic routes and includes the following pages:
+
+- **Home**
+- **Shop**
+- **Products**
+- **Cart**
+- **Checkout**
+- **Favorites**
+- **Account**
+- **About**
+- **Contact**
+- **Blog**
+
+### Key Highlights
+
+- **Dynamic Routing**: Efficient navigation between pages with Next.js' dynamic routing capabilities.
+- **Custom Design Enhancements**: Unique design elements implemented for a visually appealing interface.
+- **Tailwind CSS Integration**: For rapid styling and responsiveness.
+- **Efficient Development**: Completed the project in less than **24 hours**.
 
 ## Getting Started
 
