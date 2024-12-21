@@ -2,6 +2,7 @@ import React from 'react'
 
 const HeroTwo = () => {
   return (
+  // sec two
     <section className="bg-[#FAF4F4] py-12 md:py-16">
     <div className="container mx-auto px-4">
     <div className="text-center mt-8">
